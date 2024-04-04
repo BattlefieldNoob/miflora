@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ChrisScheffler/miflora#readme",
   "dependencies": {
-    "@abandonware/noble": "^1.9.2-10",
+    "@stoprocent/noble": "^1.13.6",
     "debug": "^4.3.0"
   },
   "devDependencies": {
